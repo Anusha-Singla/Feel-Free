@@ -1,0 +1,24 @@
+.background-left{
+    background-color: black;
+    background-image: url("/assets/SignUp.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left top;
+}
+
+.background-right{
+    background-color: black;
+}
+
+.card{
+    background-color: transparent;
+    color:white;
+}
+
+.text-muted{
+    color:white !important;
+}
+
+.btn[type=submit]{
+    border-radius: 50px;
+}

@@ -1,0 +1,10 @@
+.vertical-divider{
+    border-right: 1px solid gainsboro;
+}
+hr{
+    border: 1px solid gainsboro;
+}
+.giveitcss{
+    background-color: black;
+    color: blanchedalmond;
+}
